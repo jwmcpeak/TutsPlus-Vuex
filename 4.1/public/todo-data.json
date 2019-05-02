@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "task": "Write TODO Application",
+    "description": "Write the TODO app.",
+    "status": "active"
+  }, {
+    "id": 2,
+    "task": "Add HTTP Communication",
+    "description": "Add support for async HTTP communication to grab data.",
+    "status": "complete"
+  }, {
+    "id": 3,
+    "task": "Use Getters",
+    "description": "Use a getter to compute the length of the toDelete array.",
+    "status": "active"
+  }, {
+    "id": 4,
+    "task": "Filter TODO List",
+    "description": "Use Getter to filter out deleted TODOs.",
+    "status": "deleted"
+  }]
